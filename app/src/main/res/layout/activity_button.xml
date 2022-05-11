@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="按鈕一"
+        android:textColor="#D3FFEB3B"
+        android:layout_margin="10dp"
+        android:layout_gravity="right"
+        ></Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="按鈕二"
+        android:textColor="#D30E0E0D"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        ></Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="按鈕三"
+        android:textColor="#D3FFEB3B"
+        android:layout_margin="10dp"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="按鈕四"
+        android:textColor="#D3FFEB3B"
+        android:layout_margin="10dp"
+        android:background="@drawable/button_blue"
+        ></Button>
+</LinearLayout>
