@@ -7,13 +7,20 @@
         <entry key="..\:/Android/projects/Application1/app/src/main/res/drawable/checkbox_checked.xml" value="0.1945" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/drawable/checkbox_checked2.xml" value="0.1955" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.218" />
-        <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_button.xml" value="0.75" />
+        <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_button.xml" value="0.6909090909090909" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_cheackbox.xml" value="0.67" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_cheackbox_group.xml" value="0.15391192817443353" />
+        <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_constrainlayout_01.xml" value="0.23557075673364686" />
+        <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_constraintlayout.xml" value="0.23557075673364686" />
+        <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_framelayout.xml" value="0.26790571169537625" />
+        <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_framelayout2.xml" value="0.26790571169537625" />
+        <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_gridlayout.xml" value="0.5" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_imageview.xml" value="0.75" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_main2.xml" value="0.5" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_radiobutton.xml" value="0.26790571169537625" />
+        <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_relativelayout.xml" value="0.67" />
+        <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_tablelayout.xml" value="0.67" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/activity_textview.xml" value="0.33" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/layout.xml" value="0.67" />
         <entry key="..\:/Android/projects/Application1/app/src/main/res/layout/textview.xml" value="0.1037037037037037" />
