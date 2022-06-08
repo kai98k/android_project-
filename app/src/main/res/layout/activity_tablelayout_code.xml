@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1">
+
+    <TableRow>
+
+        <TextView
+            android:background="#DDDCDC"
+            android:padding="4dp"
+            android:text="遊戲名稱"
+            android:textColor="#434040" />
+
+        <TextView
+            android:background="#EBD7F6"
+            android:gravity="center_horizontal"
+            android:padding="4dp"
+            android:text="遊戲版本"
+            android:textColor="#F19E22" />
+
+        <TextView
+            android:background="#DDDCDC"
+            android:padding="4dp"
+            android:text="手機系統版本"
+            android:textColor="#494242" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_margin="4dp"
+            android:text="瑪莉歐大賽車"
+            android:textColor="#246CF8" />
+
+        <TextView
+            android:layout_margin="4dp"
+            android:text="version  1.6.0"
+            android:textColor="#246CF8" />
+
+        <TextView
+            android:layout_margin="4dp"
+            android:text="Android  6.0"
+            android:textColor="#246CF8" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_margin="4dp"
+            android:text="英雄聯盟"
+            android:textColor="#55C7F4" />
+
+        <TextView
+            android:layout_margin="4dp"
+            android:text="version  1.4.11"
+            android:textColor="#55C7F4" />
+
+        <TextView
+            android:layout_margin="4dp"
+            android:text="Android  5.0"
+            android:textColor="#55C7F4" />
+    </TableRow>
+
+    <ImageView android:src="@android:drawable/btn_star_big_on"/>
+
+    <TableRow>
+
+        <TextView
+            android:text="艾爾登法環"
+            android:textColor="#6ADF9E" />
+
+        <TextView
+            android:text="version  2.4.1"
+            android:textColor="#6ADF9E" />
+
+        <TextView
+            android:text="Android  10.0"
+            android:textColor="#6ADF9E" />
+    </TableRow>
+
+    <Button android:text="送出" />
+</TableLayout>
